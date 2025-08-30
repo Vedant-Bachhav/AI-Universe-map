@@ -1,0 +1,5 @@
+{
+  "name": "Research Universe Visualization",
+  "description": "An interactive 2D visualization of a 'Research Universe' using D3.js, displaying categories as galaxy clusters and servers as orbiting stars. Features zoom, pan, and hover-to-view tooltips.",
+  "requestFramePermissions": []
+}
