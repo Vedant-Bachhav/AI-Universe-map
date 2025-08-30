@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import { ResearchUniverse } from './components/ResearchUniverse';
-import { getUniverseData } from './services/mockData';
+import { ResearchUniverse } from './ResearchUniverse';
+import { getUniverseData } from './mockData';
 import type { Server, Category } from './types';
 
 const App: React.FC = () => {
